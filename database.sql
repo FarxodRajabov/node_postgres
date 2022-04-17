@@ -14,3 +14,5 @@ create table post(
     foreign key (user_id) references person (id)
 );
 
+select * from person;
+select * from post;
