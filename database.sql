@@ -16,3 +16,4 @@ create table post(
 
 select * from person;
 select * from post;
+
